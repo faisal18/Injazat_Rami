@@ -16,6 +16,7 @@ namespace Injazat_Rami
         static void Main(string[] args)
         {
 
+
             Claims CS = new Claims();
             MemberRegister MR = new MemberRegister();
             try
